@@ -29,7 +29,8 @@ Input:
 
 Output 1 (JSON response):
 
-![image](https://user-images.githubusercontent.com/68892257/163451547-324ded04-dd30-4e78-8e1a-479b9b6155ca.png)
+![image](https://user-images.githubusercontent.com/68892257/163453610-4a2ff7e3-1265-434a-927c-df4827450527.png)
+
 
 
 Output 2 (XML response):
