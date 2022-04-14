@@ -23,7 +23,7 @@ def getAddressDetails():
             output = {}
             output["coordinates"] = {}
             output["coordinates"]["lat"] = response["geometry"]["location"]["lat"]
-            output["coordinates"]["lng"] = response["geometry"]["location"]["lat"]
+            output["coordinates"]["lng"] = response["geometry"]["location"]["lng"]
             output["address"] = f'# {response["formatted_address"]}'
             return output
         elif user_input["output_format"].lower() == "xml":
